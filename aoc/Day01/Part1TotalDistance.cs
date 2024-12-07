@@ -7,7 +7,7 @@
             string input;
             List<int> list1 = new List<int>();
             List<int> list2 = new List<int>();
-            using (StreamReader reader = new StreamReader("C:\\Users\\rasmu\\Desktop\\aoc\\aoc\\Day01\\inputPart1.txt"))
+            using (StreamReader reader = new StreamReader("C:\\Users\\rasmu\\Desktop\\aoc\\aoc\\Day01\\input.txt"))
             {
                 while ((input = reader.ReadLine()) != null)
                 {
